@@ -7,9 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="background_component">#1D1E33</color>
-    <color name="background_component_selected">#FF111328</color>
-    <color name="background_app">#0E0B20</color>
+    <color name="background_component">#1A1A1B</color>
+    <color name="background_component_selected">#0E0E0E</color>
+    <color name="background_app">#212124</color>
     <color name="background_button">#eb1555</color>
     <color name="title_text">#ff8d8e98</color>
 
